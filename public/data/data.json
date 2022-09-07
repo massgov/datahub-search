@@ -1,0 +1,1715 @@
+[
+  {
+    "nid": ["622316"],
+    "uuid": ["d2c11e32-5ef9-403c-a7ed-64d389fc306f"],
+    "vid": ["11878431"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "info_details",
+        "target_type": "node_type",
+        "target_uuid": "a80e0e3b-5a07-4917-a914-42472aa22627"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-06-10T13:34:51+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "2111",
+        "target_type": "user",
+        "target_uuid": "0af533b5-2a54-4131-b93f-c0386cff3a0d",
+        "url": "/user/2111"
+      }
+    ],
+    "revision_log": [
+      "Hello, I\u0027ve added a label to this page noting that it has data and is included in the Mass. Data Hub. This will not change any of your content; it just allows us to make an internal note of this page for future Data Hub enhancements. If you have any questions, feel free to email me (greg.l.desrosiers@mass.gov). Thank you, Greg."
+    ],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3366391",
+        "target_type": "user",
+        "target_uuid": "d35b848c-4f47-443f-9cb6-671328da64fd",
+        "url": "/user/3366391"
+      }
+    ],
+    "title": [" Jail Diversion Dashboard"],
+    "created": [
+      { "value": "2022-02-28T18:31:55+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-06-10T13:34:51+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/info-details/jail-diversion-dashboard"],
+    "metatag": {
+      "value": {
+        "title": "Jail Diversion Dashboard | Mass.gov",
+        "description": "Recent data on Jail Diversion activities in Massachusetts. Filter by year, demographic information, presenting problem, and diversion type. This data is updated every quarter.",
+        "mass_metatag_category": "data",
+        "mass_metatag_label": "datahub,criminaljusticeandpublicsafetydatahubtopic",
+        "mass_metatag_organization": "massachusettsdepartmentofmentalhealth,executiveofficeofhealthandhumanservices",
+        "mass_metatag_title": "Jail Diversion Dashboard",
+        "mass_metatag_url": "https://edit.stage.mass.gov/info-details/jail-diversion-dashboard",
+        "mg_stakeholder_org": "Department of Mental Health",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/info-details/jail-diversion-dashboard",
+        "og_title": "Jail Diversion Dashboard",
+        "og_description": "Recent data on Jail Diversion activities in Massachusetts. Filter by year, demographic information, presenting problem, and diversion type. This data is updated every quarter.",
+        "twitter_cards_type": "summary",
+        "twitter_cards_description": "Recent data on Jail Diversion activities in Massachusetts. Filter by year, demographic information, presenting problem, and diversion type. This data is updated every quarter.",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "Jail Diversion Dashboard",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/info-details/jail-diversion-dashboard"
+      }
+    },
+    "path": [
+      {
+        "alias": "/info-details/jail-diversion-dashboard",
+        "pid": "2051696",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_banner_image": [],
+    "field_collections": [],
+    "field_contact": [
+      {
+        "target_id": "5646",
+        "target_type": "node",
+        "target_uuid": "d21efa74-9699-4938-97c1-f17393e6d8f2",
+        "url": "/node/5646"
+      }
+    ],
+    "field_data_flag": ["data"],
+    "field_data_format": ["html"],
+    "field_data_resource_type": [],
+    "field_data_topic": [
+      {
+        "target_id": "83181",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3ecbe1d0-bdb9-4df8-81ce-d4b3726ceb53",
+        "url": "/taxonomy/term/83181"
+      },
+      {
+        "target_id": "84266",
+        "target_type": "taxonomy_term",
+        "target_uuid": "d2e9c46b-8845-40f1-a6dc-a37822070791",
+        "url": "/taxonomy/term/84266"
+      }
+    ],
+    "field_date_published": [],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_details_enable_fields": ["0"],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_footnotes": [],
+    "field_hide_table_of_contents": [],
+    "field_image_credit": [],
+    "field_infodetails_metatags": [],
+    "field_info_details_date_publishe": [],
+    "field_info_details_header_media": [],
+    "field_info_details_last_updated": [],
+    "field_info_details_related": [],
+    "field_info_details_sections": [
+      {
+        "target_id": "2142266",
+        "target_revision_id": "32278316",
+        "target_type": "paragraph",
+        "target_uuid": "978f3d14-f738-4a87-a7b1-e2c4c3508aeb"
+      }
+    ],
+    "field_info_detail_overview": [
+      {
+        "value": "\u003Cp\u003EJail diversion programs provide access to treatment, alleviate jail overcrowding, reduce unnecessary prosecution and court costs, and reduce incarceration costs. \u0026nbsp;Additionally, jail diversion programs can also decrease unnecessary visits to emergency departments and have many intangible benefits to people encountering police including their family and friends.\u0026nbsp;\u003C/p\u003E\r\n",
+        "format": "basic_html"
+      }
+    ],
+    "field_intended_audience": ["Both equally"],
+    "field_organizations": [
+      {
+        "target_id": "5806",
+        "target_type": "node",
+        "target_uuid": "eaa1f5cc-f232-48b9-9076-d33c456ede89",
+        "url": "/orgs/massachusetts-department-of-mental-health"
+      }
+    ],
+    "field_page_template": ["visual_story"],
+    "field_primary_parent": [
+      {
+        "target_id": "547986",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "700b79be-8111-42da-a327-a921802efb57",
+        "url": "/orgs/jail-diversion-programs"
+      }
+    ],
+    "field_reusable_label": [
+      {
+        "target_id": "88326",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f98f0384-ab0e-4413-87af-349574dabaaf",
+        "url": "/taxonomy/term/88326"
+      },
+      {
+        "target_id": "88386",
+        "target_type": "taxonomy_term",
+        "target_uuid": "d260ee60-d250-4d40-90a9-363d4e5a427a",
+        "url": "/taxonomy/term/88386"
+      }
+    ],
+    "field_short_desc": [
+      "Recent data on Jail Diversion activities in Massachusetts. Filter by year, demographic information, presenting problem, and diversion type. This data is updated every quarter."
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3266",
+        "target_type": "taxonomy_term",
+        "target_uuid": "2c12df30-2dd0-4008-b1d0-91c550d4128c",
+        "url": "/taxonomy/term/3266"
+      }
+    ],
+    "referencing_binders": [],
+    "page_previous": [
+      { "binders": [], "next": null, "previous": null, "options": [] }
+    ],
+    "page_next": [],
+    "computed_related_to": [],
+    "computed_log_in_links": []
+  },
+  {
+    "nid": ["650696"],
+    "uuid": ["c65595d3-060e-4e3e-81be-c82dedf73097"],
+    "vid": ["12049156"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "external_data_resource",
+        "target_type": "node_type",
+        "target_uuid": "0287bd69-b7db-47f1-875b-e16c24abdad7"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-08-24T15:46:35+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3316421",
+        "target_type": "user",
+        "target_uuid": "24b0d170-2549-453d-90b0-2048a5bed7c3",
+        "url": "/user/3316421"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3316421",
+        "target_type": "user",
+        "target_uuid": "24b0d170-2549-453d-90b0-2048a5bed7c3",
+        "url": "/user/3316421"
+      }
+    ],
+    "title": ["\u0022Show cause\u0022 hearing decisions"],
+    "created": [
+      { "value": "2022-08-09T19:06:59+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-08-24T15:46:35+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/node/650696"],
+    "metatag": {
+      "value": {
+        "title": "\u0022Show cause\u0022 hearing decisions | Mass.gov",
+        "mass_metatag_title": "\u0022Show cause\u0022 hearing decisions",
+        "mass_metatag_url": "https://edit.stage.mass.gov/node/650696",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/node/650696",
+        "og_title": "\u0022Show cause\u0022 hearing decisions",
+        "twitter_cards_type": "summary",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "\u0022Show cause\u0022 hearing decisions",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/node/650696"
+      }
+    },
+    "path": ["en"],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["pdf", "other"],
+    "field_data_resource_type": [],
+    "field_data_topic": [
+      {
+        "target_id": "84396",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e9a4166-2fc1-42af-9e3a-7b6702a7ac48",
+        "url": "/taxonomy/term/84396"
+      },
+      {
+        "target_id": "89381",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f116c333-38e7-4b1d-aa7e-a424bdca8ea1",
+        "url": "/taxonomy/term/89381"
+      }
+    ],
+    "field_details_data_type": [
+      {
+        "target_id": "77926",
+        "target_type": "taxonomy_term",
+        "target_uuid": "9bb1008c-89c8-44cd-99ec-80024ecaa486",
+        "url": "/taxonomy/term/77926"
+      }
+    ],
+    "field_externaldata_description": [
+      "Dashboard of \u0022show cause\u0022 applications for criminal complaints in the Boston Municipal and District Courts. A show cause hearing is a hearing that a magistrate may schedule after someone files a criminal complaint. This hearing gives the accused an opportunity to respond to the complaint against them. This data is compiled and updated by the Massachusetts Trial Court Department of Research and Planning."
+    ],
+    "field_externaldata_url": [
+      {
+        "uri": "https://public.tableau.com/app/profile/drap4687/viz/MassachusettsTrialCourtShowCauseHearingDecisions/ByCaseCharateristics",
+        "title": "",
+        "options": []
+      }
+    ],
+    "field_external_organization": [],
+    "field_organizations": [
+      {
+        "target_id": "51601",
+        "target_type": "node",
+        "target_uuid": "c4b2b753-94ae-4933-8a9c-04258f7c130e",
+        "url": "/orgs/executive-office-of-the-trial-court"
+      },
+      {
+        "target_id": "248681",
+        "target_type": "node",
+        "target_uuid": "4bedee6f-d831-4469-a87a-19da26b10111",
+        "url": "/orgs/trial-court-department-of-research-and-planning"
+      },
+      {
+        "target_id": "67286",
+        "target_type": "node",
+        "target_uuid": "048e6963-a732-4139-8764-0f503bd05d0b",
+        "url": "/orgs/massachusetts-court-system"
+      }
+    ]
+  },
+  {
+    "nid": ["366531"],
+    "uuid": ["ff15a643-0a1a-4ae8-828d-fabc66a671c8"],
+    "vid": ["11596121"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "info_details",
+        "target_type": "node_type",
+        "target_uuid": "a80e0e3b-5a07-4917-a914-42472aa22627"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-01-25T15:09:11+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3321211",
+        "target_type": "user",
+        "target_uuid": "fa6b1220-12a3-4750-bc54-7ecb65780c13",
+        "url": "/user/3321211"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3321211",
+        "target_type": "user",
+        "target_uuid": "fa6b1220-12a3-4750-bc54-7ecb65780c13",
+        "url": "/user/3321211"
+      }
+    ],
+    "title": ["2017 Municipal Rideshare Fund Report"],
+    "created": [
+      { "value": "2018-06-21T17:55:49+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-01-25T15:09:11+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/info-details/2017-municipal-rideshare-fund-report"],
+    "metatag": {
+      "value": {
+        "title": "2017 Municipal Rideshare Fund Report | Mass.gov",
+        "description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2017.",
+        "mass_metatag_category": "data",
+        "mass_metatag_organization": "tncdivision,departmentofpublicutilities,executiveofficeofenergyandenvironmentalaffairs",
+        "mass_metatag_title": "2017 Municipal Rideshare Fund Report",
+        "mass_metatag_type": "dataset",
+        "mass_metatag_url": "https://edit.stage.mass.gov/info-details/2017-municipal-rideshare-fund-report",
+        "mg_stakeholder_org": "Department of Public Utilities",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/info-details/2017-municipal-rideshare-fund-report",
+        "og_title": "2017 Municipal Rideshare Fund Report",
+        "og_description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2017.",
+        "twitter_cards_type": "summary",
+        "twitter_cards_description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2017.",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2017 Municipal Rideshare Fund Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/info-details/2017-municipal-rideshare-fund-report"
+      }
+    },
+    "path": [
+      {
+        "alias": "/info-details/2017-municipal-rideshare-fund-report",
+        "pid": "406586",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": ["bundle_default"],
+    "rh_redirect": [],
+    "rh_redirect_response": ["301"],
+    "rh_redirect_fallback_action": [],
+    "field_banner_image": [],
+    "field_collections": [],
+    "field_contact": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["xls"],
+    "field_data_resource_type": [],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_date_published": [],
+    "field_details_data_type": [
+      {
+        "target_id": "77926",
+        "target_type": "taxonomy_term",
+        "target_uuid": "9bb1008c-89c8-44cd-99ec-80024ecaa486",
+        "url": "/taxonomy/term/77926"
+      }
+    ],
+    "field_details_enable_fields": ["0"],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_footnotes": [],
+    "field_hide_table_of_contents": [],
+    "field_image_credit": [],
+    "field_infodetails_metatags": [],
+    "field_info_details_date_publishe": [],
+    "field_info_details_header_media": [],
+    "field_info_details_last_updated": [],
+    "field_info_details_related": [],
+    "field_info_details_sections": [
+      {
+        "target_id": "850701",
+        "target_revision_id": "29508101",
+        "target_type": "paragraph",
+        "target_uuid": "cf2ff7db-8f98-458e-88b7-07083bd60ff6"
+      },
+      {
+        "target_id": "1163211",
+        "target_revision_id": "29508116",
+        "target_type": "paragraph",
+        "target_uuid": "86fa13d8-0d51-4213-91f5-34fe6e7de493"
+      },
+      {
+        "target_id": "1005341",
+        "target_revision_id": "29508131",
+        "target_type": "paragraph",
+        "target_uuid": "47411cdb-6a10-4cbe-a9ec-8960ce9a71d2"
+      },
+      {
+        "target_id": "1005356",
+        "target_revision_id": "29508146",
+        "target_type": "paragraph",
+        "target_uuid": "1c1a5fcd-28a4-4d08-859e-0b6c9e51220a"
+      },
+      {
+        "target_id": "1005371",
+        "target_revision_id": "29508161",
+        "target_type": "paragraph",
+        "target_uuid": "c50c05b0-cf36-49da-95d3-7496a4a9a37c"
+      }
+    ],
+    "field_info_detail_overview": [],
+    "field_intended_audience": ["Professional (For their jobs)"],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_page_template": [],
+    "field_primary_parent": [
+      {
+        "target_id": "15091",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_reusable_label": [],
+    "field_short_desc": [
+      "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2017."
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3276",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f5c2385c-0927-4045-9443-6f4702799ff2",
+        "url": "/taxonomy/term/3276"
+      }
+    ],
+    "referencing_binders": [],
+    "page_previous": [
+      { "binders": [], "next": null, "previous": null, "options": [] }
+    ],
+    "page_next": [],
+    "computed_related_to": [],
+    "computed_log_in_links": [
+      {
+        "uri": "https://www.ma.wildlifelicense.com/",
+        "title": "MassFishHunt",
+        "options": []
+      }
+    ]
+  },
+  {
+    "nid": ["591701"],
+    "uuid": ["4c12e77f-b9cd-4d84-96cf-106a40fcdee6"],
+    "vid": ["11574166"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "external_data_resource",
+        "target_type": "node_type",
+        "target_uuid": "0287bd69-b7db-47f1-875b-e16c24abdad7"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-01-13T01:11:37+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3324741",
+        "target_type": "user",
+        "target_uuid": "8d6c0a63-fa53-4e16-8b5a-124b9ff400cc",
+        "url": "/user/3324741"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3324741",
+        "target_type": "user",
+        "target_uuid": "8d6c0a63-fa53-4e16-8b5a-124b9ff400cc",
+        "url": "/user/3324741"
+      }
+    ],
+    "title": ["2017 Rideshare Data Report"],
+    "created": [
+      { "value": "2021-08-05T01:21:44+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-01-13T01:11:37+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/node/591701"],
+    "metatag": {
+      "value": {
+        "title": "2017 Rideshare Data Report | Mass.gov",
+        "mass_metatag_title": "2017 Rideshare Data Report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/node/591701",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/node/591701",
+        "og_title": "2017 Rideshare Data Report",
+        "twitter_cards_type": "summary",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2017 Rideshare Data Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/node/591701"
+      }
+    },
+    "path": ["en"],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["html", "xls", "other"],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_externaldata_description": [
+      "This report includes an interactive summary of the 2017 rideshare data. You can explore how people in your city or town use rideshare services, such as how many rides began where you live and where those rides ended. You\u2019ll also learn how population density and other factors affect ridesharing. You can also download data behind this summary. This report is published by the Department of Public Utilities."
+    ],
+    "field_externaldata_url": [
+      {
+        "uri": "https://tnc.sites.digital.mass.gov/2017/",
+        "title": "",
+        "options": []
+      }
+    ],
+    "field_external_organization": [],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ]
+  },
+  {
+    "nid": ["443336"],
+    "uuid": ["bdd772c7-de0d-4a87-b814-b789605a1225"],
+    "vid": ["11872941"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "curated_list",
+        "target_type": "node_type",
+        "target_uuid": "d258c6c6-b78f-435b-8608-48372243e19b"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-06-08T16:24:41+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "2111",
+        "target_type": "user",
+        "target_uuid": "0af533b5-2a54-4131-b93f-c0386cff3a0d",
+        "url": "/user/2111"
+      }
+    ],
+    "revision_log": [
+      "Hello, I\u0027ve added a label to this page noting that it has data and is included in the Mass. Data Hub. This will not change any of your content; it just allows us to make an internal note of this page for future Data Hub enhancements. If you have any questions, feel free to email me (greg.l.desrosiers@mass.gov). Thank you, Greg."
+    ],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "636",
+        "target_type": "user",
+        "target_uuid": "b8aa2527-6745-41be-8634-44db6063e66e",
+        "url": "/user/636"
+      }
+    ],
+    "title": ["2018 Commuter Rail Counts"],
+    "created": [
+      { "value": "2019-01-28T18:39:22+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-06-08T16:24:41+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/lists/2018-commuter-rail-counts"],
+    "metatag": {
+      "value": {
+        "title": "2018 Commuter Rail Counts | Mass.gov",
+        "mass_metatag_category": "data",
+        "mass_metatag_label": "datahub,transportationdatahubtopic",
+        "mass_metatag_organization": "massachusettsdepartmentoftransportation",
+        "mass_metatag_title": "2018 Commuter Rail Counts",
+        "mass_metatag_type": "dataset",
+        "mass_metatag_url": "https://edit.stage.mass.gov/lists/2018-commuter-rail-counts",
+        "mg_stakeholder_org": "Massachusetts Department of Transportation (DOT)",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/lists/2018-commuter-rail-counts",
+        "og_title": "2018 Commuter Rail Counts",
+        "twitter_cards_type": "summary",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2018 Commuter Rail Counts",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/lists/2018-commuter-rail-counts"
+      }
+    },
+    "path": [
+      {
+        "alias": "/lists/2018-commuter-rail-counts",
+        "pid": "1417966",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_contact": [],
+    "field_curatedlist_lede": [],
+    "field_curatedlist_list_section": [
+      {
+        "target_id": "1082941",
+        "target_revision_id": "32228836",
+        "target_type": "paragraph",
+        "target_uuid": "0b1c64cd-66d1-430b-87d6-b2827d1a2372"
+      },
+      {
+        "target_id": "1082946",
+        "target_revision_id": "32228846",
+        "target_type": "paragraph",
+        "target_uuid": "f3cf8b1c-831d-478a-9b81-8c49bf0ca351"
+      }
+    ],
+    "field_curatedlist_metatags": [],
+    "field_curatedlist_overview": [
+      {
+        "value": "\u003Cp\u003E\u003Cspan\u003E\u003Cspan\u003E\u003Cspan\u003EBetween March and June of 2018, under a Massachusetts Department of Transportation (MassDOT) contract, the Central Transportation Planning Staff (CTPS) managed one-day weekday passenger boarding and alighting counts at all stations on all lines of the Massachusetts Bay Transportation Authority (MBTA) commuter rail system. During September and October 2018, CTPS conducted recounts at stations or on trains for which reviews of the spring results suggested that they were not representative.\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cspan\u003E\u003Cspan\u003E\u003Cspan\u003EThe count results for each line are presented here in the form of spreadsheets (excel and pdf) showing station boarding and alighting counts for each train in each direction.\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\r\n",
+        "format": "basic_html"
+      }
+    ],
+    "field_data_flag": ["data"],
+    "field_data_format": ["pdf", "xls"],
+    "field_data_resource_type": [],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "83221",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f973c191-81aa-409f-b71c-4a77be41a1b8",
+        "url": "/taxonomy/term/83221"
+      }
+    ],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_intended_audience": ["_none"],
+    "field_list_data_type": [
+      {
+        "target_id": "77916",
+        "target_type": "taxonomy_term",
+        "target_uuid": "d41ea2e5-dd06-426e-b3c7-be4cc3c075b4",
+        "url": "/taxonomy/term/77916"
+      }
+    ],
+    "field_list_directory_section": [],
+    "field_list_type": ["links"],
+    "field_organizations": [
+      {
+        "target_id": "6536",
+        "target_type": "node",
+        "target_uuid": "8cc07b9f-44c8-41fb-b4f6-5d8bbaf0654d",
+        "url": "/orgs/massachusetts-department-of-transportation"
+      }
+    ],
+    "field_primary_parent": [
+      {
+        "target_id": "60961",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "ffe7b1ef-b50d-4f34-92c4-7f031d120693",
+        "url": "/orgs/massachusetts-bay-transportation-authority"
+      }
+    ],
+    "field_related_links": [],
+    "field_reusable_label": [
+      {
+        "target_id": "88326",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f98f0384-ab0e-4413-87af-349574dabaaf",
+        "url": "/taxonomy/term/88326"
+      },
+      {
+        "target_id": "88331",
+        "target_type": "taxonomy_term",
+        "target_uuid": "10fb3e55-41ea-4fb4-9086-65faefd04aa6",
+        "url": "/taxonomy/term/88331"
+      }
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3296",
+        "target_type": "taxonomy_term",
+        "target_uuid": "d356ce9f-5553-423e-92f4-dbfb8fa0b3c8",
+        "url": "/taxonomy/term/3296"
+      }
+    ],
+    "referencing_binders": [],
+    "page_previous": [
+      { "binders": [], "next": null, "previous": null, "options": [] }
+    ],
+    "page_next": [],
+    "computed_related_to": [],
+    "computed_log_in_links": [
+      {
+        "uri": "https://www.ezdrivema.com/ezpassmalogin",
+        "title": "Access your E-ZPass MA account",
+        "options": []
+      },
+      {
+        "uri": "https://www.ezdrivema.com/paybyplatemalogin",
+        "title": "Pay your Pay By Plate MA invoice",
+        "options": []
+      },
+      {
+        "uri": "https://atlas-myrmv.massdot.state.ma.us/myrmv/_/#1",
+        "title": "Find RMV services and information",
+        "options": []
+      }
+    ]
+  },
+  {
+    "nid": ["523006"],
+    "uuid": ["61df4027-e01a-40f0-8368-f9b2cbcdd73a"],
+    "vid": ["11596076"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "info_details",
+        "target_type": "node_type",
+        "target_uuid": "a80e0e3b-5a07-4917-a914-42472aa22627"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-01-25T15:06:41+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3321211",
+        "target_type": "user",
+        "target_uuid": "fa6b1220-12a3-4750-bc54-7ecb65780c13",
+        "url": "/user/3321211"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3321211",
+        "target_type": "user",
+        "target_uuid": "fa6b1220-12a3-4750-bc54-7ecb65780c13",
+        "url": "/user/3321211"
+      }
+    ],
+    "title": ["2018 Municipal Rideshare Fund Report"],
+    "created": [
+      { "value": "2020-04-30T14:41:04+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-01-25T15:06:41+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/info-details/2018-municipal-rideshare-fund-report"],
+    "metatag": {
+      "value": {
+        "title": "2018 Municipal Rideshare Fund Report | Mass.gov",
+        "description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2018.",
+        "mass_metatag_category": "data",
+        "mass_metatag_organization": "tncdivision,departmentofpublicutilities,executiveofficeofenergyandenvironmentalaffairs",
+        "mass_metatag_title": "2018 Municipal Rideshare Fund Report",
+        "mass_metatag_type": "report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/info-details/2018-municipal-rideshare-fund-report",
+        "mg_stakeholder_org": "Department of Public Utilities",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/info-details/2018-municipal-rideshare-fund-report",
+        "og_title": "2018 Municipal Rideshare Fund Report",
+        "og_description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2018.",
+        "twitter_cards_type": "summary",
+        "twitter_cards_description": "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2018.",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2018 Municipal Rideshare Fund Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/info-details/2018-municipal-rideshare-fund-report"
+      }
+    },
+    "path": [
+      {
+        "alias": "/info-details/2018-municipal-rideshare-fund-report",
+        "pid": "1655846",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_banner_image": [],
+    "field_collections": [],
+    "field_contact": [],
+    "field_data_flag": ["data"],
+    "field_data_format": [],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_date_published": [],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_details_enable_fields": ["0"],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_footnotes": [],
+    "field_hide_table_of_contents": [],
+    "field_image_credit": [],
+    "field_infodetails_metatags": [],
+    "field_info_details_date_publishe": [],
+    "field_info_details_header_media": [],
+    "field_info_details_last_updated": [],
+    "field_info_details_related": [
+      { "uri": "entity:node/366531", "title": "", "options": [] }
+    ],
+    "field_info_details_sections": [
+      {
+        "target_id": "1517836",
+        "target_revision_id": "29507936",
+        "target_type": "paragraph",
+        "target_uuid": "8d3ba2d1-8456-407a-a214-04d78dbca9be"
+      },
+      {
+        "target_id": "1552661",
+        "target_revision_id": "29507951",
+        "target_type": "paragraph",
+        "target_uuid": "cb185e54-0ae0-4523-aae0-4561f93f7bad"
+      }
+    ],
+    "field_info_detail_overview": [
+      {
+        "value": "\u003Cp\u003EPer statute, the Transportation Network Company (TNC) Division of the Department of Public Utilities must collect a $0.20 per-ride assessment on all TNC rides originating in the Commonwealth. \u0026nbsp;In 2018, there were approximately 81.3 million rideshare trips started in Massachusetts which resulted in a\u0026nbsp;$16.2 million assessment from TNCs.\u0026nbsp;Half of this amount was distributed to MassDevelopment and\u0026nbsp;the Commonwealth\u0027s Transportation Fund while\u0026nbsp;the other half was distributed to Massachusetts cities and towns based on the amount of rides started in each community.\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cspan\u003E\u003Cspan\u003ECommunities that receive funds from the Division must file a report with the Division certifying\u0026nbsp;their use of the funding.\u0026nbsp; Any community that has determined to bank the funds for future use\u0026nbsp;is not relieved of its obligation to report the spending or proposed spending of the funds once a plan has been developed.\u0026nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003EIf your community has not yet reported on the use of these funds, or if you have any questions about the disbursement of these funds, please contact us at\u0026nbsp;\u003Ca href=\u0022mailto:DPUTNCReports@mass.gov\u0022\u003EDPUTNCReports@mass.gov\u003C/a\u003E.\u003C/p\u003E\r\n",
+        "format": "basic_html"
+      }
+    ],
+    "field_intended_audience": ["Both equally"],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_page_template": [],
+    "field_primary_parent": [
+      {
+        "target_id": "15091",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_reusable_label": [],
+    "field_short_desc": [
+      "Below, you can discover how each community spent their share of the per-ride assessment funds collected for rides taken in 2018."
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3276",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f5c2385c-0927-4045-9443-6f4702799ff2",
+        "url": "/taxonomy/term/3276"
+      }
+    ],
+    "referencing_binders": [],
+    "page_previous": [
+      { "binders": [], "next": null, "previous": null, "options": [] }
+    ],
+    "page_next": [],
+    "computed_related_to": [],
+    "computed_log_in_links": [
+      {
+        "uri": "https://www.ma.wildlifelicense.com/",
+        "title": "MassFishHunt",
+        "options": []
+      }
+    ]
+  },
+  {
+    "nid": ["591696"],
+    "uuid": ["b7d28633-3026-451e-8780-126d495f078d"],
+    "vid": ["11574171"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "external_data_resource",
+        "target_type": "node_type",
+        "target_uuid": "0287bd69-b7db-47f1-875b-e16c24abdad7"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-01-13T01:12:07+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3324741",
+        "target_type": "user",
+        "target_uuid": "8d6c0a63-fa53-4e16-8b5a-124b9ff400cc",
+        "url": "/user/3324741"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3324741",
+        "target_type": "user",
+        "target_uuid": "8d6c0a63-fa53-4e16-8b5a-124b9ff400cc",
+        "url": "/user/3324741"
+      }
+    ],
+    "title": ["2018 Rideshare Data Report"],
+    "created": [
+      { "value": "2021-08-05T01:20:07+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-01-13T01:12:07+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/node/591696"],
+    "metatag": {
+      "value": {
+        "title": "2018 Rideshare Data Report | Mass.gov",
+        "mass_metatag_title": "2018 Rideshare Data Report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/node/591696",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/node/591696",
+        "og_title": "2018 Rideshare Data Report",
+        "twitter_cards_type": "summary",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2018 Rideshare Data Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/node/591696"
+      }
+    },
+    "path": ["en"],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["html", "xls", "other"],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_externaldata_description": [
+      "This report includes an interactive summary of the 2018 rideshare data. You can explore how people in your city or town use rideshare services, such as how many rides began where you live and where those rides ended. You\u2019ll also learn how population density and other factors affect ridesharing. You can also download data behind this summary. This report is published by the Department of Public Utilities."
+    ],
+    "field_externaldata_url": [
+      {
+        "uri": "https://tnc.sites.digital.mass.gov/2018/",
+        "title": "",
+        "options": []
+      }
+    ],
+    "field_external_organization": [],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ]
+  },
+  {
+    "nid": ["488156"],
+    "uuid": ["8382f40a-391d-4112-9232-75bc548850c5"],
+    "vid": ["11872971"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "service_details",
+        "target_type": "node_type",
+        "target_uuid": "11cf5b04-136e-4490-83b4-6bcc45265038"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-06-08T16:30:20+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "2111",
+        "target_type": "user",
+        "target_uuid": "0af533b5-2a54-4131-b93f-c0386cff3a0d",
+        "url": "/user/2111"
+      }
+    ],
+    "revision_log": [
+      "Hello, I\u0027ve added a label to this page noting that it has data and is included in the Mass. Data Hub. This will not change any of your content; it just allows us to make an internal note of this page for future Data Hub enhancements. If you have any questions, feel free to email me (greg.l.desrosiers@mass.gov). Thank you, Greg."
+    ],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "1801",
+        "target_type": "user",
+        "target_uuid": "4e742bc8-7f54-451d-9ffa-47832013db34",
+        "url": "/user/1801"
+      }
+    ],
+    "title": ["2019 Regional Labor Market Data"],
+    "created": [
+      { "value": "2019-09-23T14:49:57+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-06-08T16:30:20+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/service-details/2019-regional-labor-market-data"],
+    "metatag": {
+      "value": {
+        "title": "2019 Regional Labor Market Data | Mass.gov",
+        "description": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "mass_metatag_body_preview": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "mass_metatag_category": "data",
+        "mass_metatag_label": "reviewmultipleparents,datahub,laborandworkforcedevelopmentdatahubtopic",
+        "mass_metatag_organization": "executiveofficeoflaborandworkforcedevelopment",
+        "mass_metatag_short_description": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "mass_metatag_title": "2019 Regional Labor Market Data",
+        "mass_metatag_type": "report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/service-details/2019-regional-labor-market-data",
+        "mg_stakeholder_org": "Department of Career Services",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/service-details/2019-regional-labor-market-data",
+        "og_title": "2019 Regional Labor Market Data",
+        "og_description": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "schema_government_service_id": "https://edit.stage.mass.gov/service-details/2019-regional-labor-market-data#service_detail",
+        "schema_government_service_type": "GovernmentService",
+        "schema_government_service_description": "These data sets are meant to help people better understand labor market needs, including priority industries and occupations. Planners can use this to align local workforces, education, talent pipelines, and economic development systems. These insights can inform policy-making and investments targeted at strengthening the Massachusetts economy.",
+        "schema_government_service_disambiguating_description": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "schema_government_service_name": "2019 Regional Labor Market Data",
+        "schema_government_service_potential_action_0": [],
+        "schema_government_service_related_link_0": [
+          {
+            "@type": "Service",
+            "name": "",
+            "url": "https://edit.stage.mass.gov/regional-workforce-skills-planning-initiative"
+          }
+        ],
+        "twitter_cards_type": "summary",
+        "twitter_cards_description": "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics.",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2019 Regional Labor Market Data",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/service-details/2019-regional-labor-market-data"
+      }
+    },
+    "path": [
+      {
+        "alias": "/service-details/2019-regional-labor-market-data",
+        "pid": "1545861",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["other"],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83176",
+        "target_type": "taxonomy_term",
+        "target_uuid": "123aa364-1b76-4378-9953-843f9acfe88e",
+        "url": "/taxonomy/term/83176"
+      },
+      {
+        "target_id": "84311",
+        "target_type": "taxonomy_term",
+        "target_uuid": "688497ee-c0a4-497b-851e-4abd9244a714",
+        "url": "/taxonomy/term/84311"
+      },
+      {
+        "target_id": "84316",
+        "target_type": "taxonomy_term",
+        "target_uuid": "b4f9176d-0632-450a-8029-a1ae3a0b242c",
+        "url": "/taxonomy/term/84316"
+      }
+    ],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_intended_audience": ["_none"],
+    "field_organizations": [
+      {
+        "target_id": "14296",
+        "target_type": "node",
+        "target_uuid": "11f3e42f-bac5-42a5-8630-2f394bd920b9",
+        "url": "/orgs/executive-office-of-labor-and-workforce-development"
+      }
+    ],
+    "field_primary_parent": [
+      {
+        "target_id": "136061",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "43be5126-70ce-4fbe-857e-5d0a75f79ce0",
+        "url": "/regional-workforce-skills-planning-initiative"
+      }
+    ],
+    "field_reusable_label": [
+      {
+        "target_id": "85886",
+        "target_type": "taxonomy_term",
+        "target_uuid": "520cee6c-a522-48f9-b8ed-19c70da50059",
+        "url": "/taxonomy/term/85886"
+      },
+      {
+        "target_id": "88326",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f98f0384-ab0e-4413-87af-349574dabaaf",
+        "url": "/taxonomy/term/88326"
+      },
+      {
+        "target_id": "88336",
+        "target_type": "taxonomy_term",
+        "target_uuid": "fa56946e-a6e9-428e-807f-704c604549dd",
+        "url": "/taxonomy/term/88336"
+      }
+    ],
+    "field_service_detail_contact": [
+      {
+        "target_id": "23591",
+        "target_type": "node",
+        "target_uuid": "74f12b42-c49f-44bd-a8fd-57d86c29af61",
+        "url": "/node/23591"
+      }
+    ],
+    "field_service_detail_lede": [
+      "Download regional labor market data. Identify labor pool needs by industry, occupation, and demographics."
+    ],
+    "field_service_detail_links_5": [
+      { "uri": "entity:node/136061", "title": "", "options": [] }
+    ],
+    "field_service_detail_metatags": [],
+    "field_service_detail_overview": [
+      {
+        "value": "\u003Cp\u003EThese data sets are meant to help people better understand labor market needs, including priority industries and occupations. Planners can use this to align local workforces, education, talent pipelines, and economic development systems. These insights can inform policy-making and investments targeted at strengthening the Massachusetts economy.\u003C/p\u003E\r\n",
+        "format": "basic_html"
+      }
+    ],
+    "field_service_detail_sections": [
+      {
+        "target_id": "1378286",
+        "target_revision_id": "32229211",
+        "target_type": "paragraph",
+        "target_uuid": "c242eba8-bf45-4afe-bd0d-c8e92447b4a8"
+      }
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3191",
+        "target_type": "taxonomy_term",
+        "target_uuid": "954f63f0-f659-4796-90cd-3a4de21cb435",
+        "url": "/taxonomy/term/3191"
+      }
+    ],
+    "computed_related_to": [],
+    "computed_log_in_links": []
+  },
+  {
+    "nid": ["588806"],
+    "uuid": ["768b32ab-6ffa-47e1-9594-45dedb0baba3"],
+    "vid": ["11574161"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "external_data_resource",
+        "target_type": "node_type",
+        "target_uuid": "0287bd69-b7db-47f1-875b-e16c24abdad7"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-01-13T01:11:09+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3324741",
+        "target_type": "user",
+        "target_uuid": "8d6c0a63-fa53-4e16-8b5a-124b9ff400cc",
+        "url": "/user/3324741"
+      }
+    ],
+    "revision_log": [],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3316421",
+        "target_type": "user",
+        "target_uuid": "24b0d170-2549-453d-90b0-2048a5bed7c3",
+        "url": "/user/3316421"
+      }
+    ],
+    "title": ["2019 Rideshare Data Report"],
+    "created": [
+      { "value": "2021-07-13T20:12:44+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-01-13T01:11:09+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/node/588806"],
+    "metatag": {
+      "value": {
+        "title": "2019 Rideshare Data Report | Mass.gov",
+        "mass_metatag_title": "2019 Rideshare Data Report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/node/588806",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/node/588806",
+        "og_title": "2019 Rideshare Data Report",
+        "twitter_cards_type": "summary",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2019 Rideshare Data Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/node/588806"
+      }
+    },
+    "path": ["en"],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_collections": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["html", "xls", "other"],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_externaldata_description": [
+      "This report includes an interactive summary of the 2019 rideshare data. You can explore how people in your city or town use rideshare services, such as how many rides began where you live and where those rides ended. You\u2019ll also learn how population density and other factors affect ridesharing. You can also download data behind this summary, and view the 2017 report and the 2018 report. This report is published by the Department of Public Utilities."
+    ],
+    "field_externaldata_url": [
+      {
+        "uri": "https://tnc.sites.digital.mass.gov/",
+        "title": "",
+        "options": []
+      }
+    ],
+    "field_external_organization": [],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ]
+  },
+  {
+    "nid": ["564936"],
+    "uuid": ["f89b0db9-0f80-4934-85a7-80d31a65c263"],
+    "vid": ["11872991"],
+    "langcode": ["en"],
+    "type": [
+      {
+        "target_id": "info_details",
+        "target_type": "node_type",
+        "target_uuid": "a80e0e3b-5a07-4917-a914-42472aa22627"
+      }
+    ],
+    "revision_timestamp": [
+      { "value": "2022-06-08T16:34:18+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "2111",
+        "target_type": "user",
+        "target_uuid": "0af533b5-2a54-4131-b93f-c0386cff3a0d",
+        "url": "/user/2111"
+      }
+    ],
+    "revision_log": [
+      "Hello, I\u0027ve added a label to this page noting that it has data and is included in the Mass. Data Hub. This will not change any of your content; it just allows us to make an internal note of this page for future Data Hub enhancements. If you have any questions, feel free to email me (greg.l.desrosiers@mass.gov). Thank you, Greg."
+    ],
+    "status": ["1"],
+    "uid": [
+      {
+        "target_id": "3321211",
+        "target_type": "user",
+        "target_uuid": "fa6b1220-12a3-4750-bc54-7ecb65780c13",
+        "url": "/user/3321211"
+      }
+    ],
+    "title": ["2020 Rideshare Data Report"],
+    "created": [
+      { "value": "2021-02-03T18:56:32+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "changed": [
+      { "value": "2022-06-08T16:34:18+00:00", "format": "Y-m-d\\TH:i:sP" }
+    ],
+    "promote": ["0"],
+    "sticky": ["0"],
+    "default_langcode": ["1"],
+    "revision_translation_affected": ["1"],
+    "moderation_state": ["published"],
+    "entity_url": ["/info-details/2020-rideshare-data-report"],
+    "metatag": {
+      "value": {
+        "title": "2020 Rideshare Data Report | Mass.gov",
+        "description": "In 2020, rideshare companies provided about 35 million rides that started in Massachusetts, which is 62% less than in 2019.  Here, you can learn more about the rideshare industry in Massachusetts.",
+        "mass_metatag_category": "data",
+        "mass_metatag_label": "datahub,transportationdatahubtopic",
+        "mass_metatag_organization": "tncdivision,departmentofpublicutilities,executiveofficeofenergyandenvironmentalaffairs",
+        "mass_metatag_title": "2020 Rideshare Data Report",
+        "mass_metatag_type": "report",
+        "mass_metatag_url": "https://edit.stage.mass.gov/info-details/2020-rideshare-data-report",
+        "mg_stakeholder_org": "Department of Public Utilities",
+        "og_site_name": "Mass.gov",
+        "og_type": "website",
+        "og_url": "https://edit.stage.mass.gov/info-details/2020-rideshare-data-report",
+        "og_title": "2020 Rideshare Data Report",
+        "og_description": "In 2020, rideshare companies provided about 35 million rides that started in Massachusetts, which is 62% less than in 2019.  Here, you can learn more about the rideshare industry in Massachusetts.",
+        "twitter_cards_type": "summary",
+        "twitter_cards_description": "In 2020, rideshare companies provided about 35 million rides that started in Massachusetts, which is 62% less than in 2019.  Here, you can learn more about the rideshare industry in Massachusetts.",
+        "twitter_cards_site": "@massgov",
+        "twitter_cards_title": "2020 Rideshare Data Report",
+        "twitter_cards_site_id": "16264003",
+        "twitter_cards_page_url": "https://edit.stage.mass.gov/info-details/2020-rideshare-data-report"
+      }
+    },
+    "path": [
+      {
+        "alias": "/info-details/2020-rideshare-data-report",
+        "pid": "1808466",
+        "langcode": "en"
+      }
+    ],
+    "rh_action": [],
+    "rh_redirect": [],
+    "rh_redirect_response": [],
+    "rh_redirect_fallback_action": [],
+    "field_banner_image": [],
+    "field_collections": [],
+    "field_contact": [],
+    "field_data_flag": ["data"],
+    "field_data_format": ["html", "xls", "other"],
+    "field_data_resource_type": [
+      {
+        "target_id": "77941",
+        "target_type": "taxonomy_term",
+        "target_uuid": "3e03d28e-7b91-4a62-8f8b-f94a5eb6cf1d",
+        "url": "/taxonomy/term/77941"
+      }
+    ],
+    "field_data_topic": [
+      {
+        "target_id": "83186",
+        "target_type": "taxonomy_term",
+        "target_uuid": "060678f8-7144-4675-a483-c17292f5ef8c",
+        "url": "/taxonomy/term/83186"
+      },
+      {
+        "target_id": "84841",
+        "target_type": "taxonomy_term",
+        "target_uuid": "79c5810b-0077-46c0-a47b-88feb1c6ca75",
+        "url": "/taxonomy/term/84841"
+      }
+    ],
+    "field_date_published": ["2021-06-14"],
+    "field_details_data_type": [
+      {
+        "target_id": "77936",
+        "target_type": "taxonomy_term",
+        "target_uuid": "01b0d001-2ea6-453c-ac8a-585753a745ff",
+        "url": "/taxonomy/term/77936"
+      }
+    ],
+    "field_details_enable_fields": ["0"],
+    "field_english_version": [{ "target_id": "0" }],
+    "field_footnotes": [
+      {
+        "value": "\u003Cp\u003E\u003Csup\u003E1\u003C/sup\u003E \u003Cspan\u003E\u003Cspan\u003E\u003Cspan\u003E\u003Cspan\u003E\u003Cspan\u003EThis number\u0026nbsp;reflects only passenger rides provided by a\u0026nbsp;permitted TNC\u0026nbsp;that originated within the borders of Massachusetts as reported to the TNC Division.\u0026nbsp; Rides\u0026nbsp;that started out of state and ended in Massachusetts are not counted.\u0026nbsp; Food delivery and\u0026nbsp;other\u0026nbsp;services offered by app-based companies in Massachusetts are also not counted.\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Csup\u003E2\u0026nbsp;\u003C/sup\u003EPopulation data to determine per person rates are from the 2010 American Community Survey (ACS) published by the U.S. Census Bureau.\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Csup\u003E\u003Cspan\u003E3\u003C/span\u003E\u003C/sup\u003E Averages were calculated by weighting TNC-reported trip length and distance by ride counts.\u003C/p\u003E\r\n",
+        "format": "basic_html"
+      }
+    ],
+    "field_hide_table_of_contents": [],
+    "field_image_credit": [],
+    "field_infodetails_metatags": [],
+    "field_info_details_date_publishe": [],
+    "field_info_details_header_media": [],
+    "field_info_details_last_updated": [],
+    "field_info_details_related": [],
+    "field_info_details_sections": [
+      {
+        "target_id": "1818571",
+        "target_revision_id": "32229226",
+        "target_type": "paragraph",
+        "target_uuid": "b1fc444f-0a0e-4c9b-9baf-d1918df2faab"
+      },
+      {
+        "target_id": "1773521",
+        "target_revision_id": "32229261",
+        "target_type": "paragraph",
+        "target_uuid": "0a81a4b1-a60c-4fe8-b1b1-cd00269263b5"
+      },
+      {
+        "target_id": "1773561",
+        "target_revision_id": "32229301",
+        "target_type": "paragraph",
+        "target_uuid": "121e508c-46cc-439c-b648-f3e6388f335f"
+      },
+      {
+        "target_id": "1773576",
+        "target_revision_id": "32229321",
+        "target_type": "paragraph",
+        "target_uuid": "b72cc3f0-eee0-40ca-9c34-cd876b7db269"
+      },
+      {
+        "target_id": "1773546",
+        "target_revision_id": "32229361",
+        "target_type": "paragraph",
+        "target_uuid": "9c8779a6-316c-48bf-a309-cce9f95fc527"
+      }
+    ],
+    "field_info_detail_overview": [],
+    "field_intended_audience": ["Both equally"],
+    "field_organizations": [
+      {
+        "target_id": "15091",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_page_template": ["visual_story"],
+    "field_primary_parent": [
+      {
+        "target_id": "15091",
+        "weight": "0",
+        "target_type": "node",
+        "target_uuid": "70ef9a6f-37e4-4d16-b0cd-168f9ba5e436",
+        "url": "/orgs/tnc-division"
+      }
+    ],
+    "field_reusable_label": [
+      {
+        "target_id": "88326",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f98f0384-ab0e-4413-87af-349574dabaaf",
+        "url": "/taxonomy/term/88326"
+      },
+      {
+        "target_id": "88331",
+        "target_type": "taxonomy_term",
+        "target_uuid": "10fb3e55-41ea-4fb4-9086-65faefd04aa6",
+        "url": "/taxonomy/term/88331"
+      }
+    ],
+    "field_short_desc": [
+      "In 2020, rideshare companies provided about 35 million rides that started in Massachusetts, which is 62% less than in 2019.  Here, you can learn more about the rideshare industry in Massachusetts."
+    ],
+    "field_short_title": [],
+    "field_state_organization_tax": [
+      {
+        "target_id": "3276",
+        "target_type": "taxonomy_term",
+        "target_uuid": "f5c2385c-0927-4045-9443-6f4702799ff2",
+        "url": "/taxonomy/term/3276"
+      }
+    ],
+    "referencing_binders": [],
+    "page_previous": [
+      { "binders": [], "next": null, "previous": null, "options": [] }
+    ],
+    "page_next": [],
+    "computed_related_to": [],
+    "computed_log_in_links": [
+      {
+        "uri": "https://www.ma.wildlifelicense.com/",
+        "title": "MassFishHunt",
+        "options": []
+      }
+    ]
+  }
+]
