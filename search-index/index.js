@@ -1,6 +1,16 @@
 
+/**
+  * $ node search-index [query]
+  * @param {1} query - search term
+*/
+
+const fs = require('fs');
+const path = require('path');
 const lunr = require('lunr');
+// data getting from view REST export https://edit.stage.mass.gov/admin/structure/views/view/data_listing_all
 const rawData = require ('./data.json');
+
+const docsPath = path.resolve(__dirname, './index.json');
 
 data = rawData.map((d) => (
     {
@@ -12,6 +22,9 @@ data = rawData.map((d) => (
     }
 ))
 
+console.log('total data records:' + data.length);
+
+
 var idx = lunr(function () {
     this.ref('nid')
     this.field('title')
@@ -22,4 +35,11 @@ var idx = lunr(function () {
     }, this)
 });
 
-console.log(idx)
+const query = process.argv[2];
+const results = idx.search(query);
+console.log('results: ')
+console.log(results)
+
+fs.writeFileSync(docsPath, JSON.stringify(idx, null, 2), (error) => {
+    if (error) throw error;
+});
