@@ -1,3 +1,12 @@
+Datahub Search Prototype
+## Generate Search Index
+- `nvm use` - Use node v18.9.0
+- `yarn` - Install dependencies
+- `node search-index [query]` - Generate search index and search for a query
+   - `node search-index health` - search with [lunr](https://lunrjs.com/)
+   - `node search index health elastic` - search with [elasticlunr](http://elasticlunr.com/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
