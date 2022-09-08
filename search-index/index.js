@@ -1,18 +1,22 @@
 
 /**
-  * $ node search-index [query]
-  * @param {1} query - search term
+  * $ node search-index [query] ['elastic']
+  * @param {1} query - search term 
+  * @param {2} elastic - (optional) set to 'elastic' to use elasticlunr 
+  * 
 */
 
 const fs = require('fs');
 const path = require('path');
 const lunr = require('lunr');
+const elasticlunr = require('elasticlunr');
 const axios = require('axios');
 // data getting from view REST export https://edit.stage.mass.gov/admin/structure/views/view/data_listing_all
 // const rawData = require ('./data.json');
 
 const dataPath = path.resolve(__dirname, './data.json');
 const indexPath = path.resolve(__dirname, './index.json');
+const indexElasticPath = path.resolve(__dirname, './index-elastic.json');
 
 axios({
     method: 'get',
@@ -36,24 +40,46 @@ axios({
         console.log('total data records:' + data.length);
         
         
-        var idx = lunr(function () {
-            this.ref('nid')
-            this.field('title')
-            this.field('description')
-          
-            data.forEach(function (doc) {
-              this.add(doc)
-            }, this)
-        });
+        let idx;
+
+        if(process.argv[3] === 'elastic') {
+
+            idx = elasticlunr(function () {
+                this.setRef('nid');
+                this.addField('title');
+                this.addField('description');
+
+                data.forEach(function (doc) {
+                    this.addDoc(doc)
+                }, this)
+                
+            });
+            fs.writeFileSync(indexElasticPath, JSON.stringify(idx, null, 2), (error) => {
+                if (error) throw error;
+            });
+
+        } else {
+            idx = lunr(function () {
+                this.ref('nid')
+                this.field('title')
+                this.field('description')
+                
+                data.forEach(function (doc) {
+                    this.add(doc)
+                }, this)
+            });
+            fs.writeFileSync(indexPath, JSON.stringify(idx, null, 2), (error) => {
+                if (error) throw error;
+            });
+        }
+
         
         const query = process.argv[2];
         const results = idx.search(query);
         console.log('results: ')
         console.log(results)
         
-        fs.writeFileSync(indexPath, JSON.stringify(idx, null, 2), (error) => {
-            if (error) throw error;
-        });
+
     });
 
 // normalize entity data
